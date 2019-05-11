@@ -105,7 +105,7 @@ a:hover{
 .breadcrumb{
 	padding:70px 0;
 	margin:0;
-	background:url('img/breadgramb_bg.jpg');
+	background:url('../img/breadgramb_bg.jpg');
 	background-size:cover;
 	background-repeat:no-repeat;
 	position:relative;
@@ -975,7 +975,7 @@ a:hover{
 	Testimonials
 =====================*/
 #testimonials{
-	background-image:url('img/testi-bg.jpg');
+	background-image:url('../img/testi-bg.jpg');
 	background-size:cover;
 	background-position:center;
 	background-repeat:no-repeat;
@@ -1475,7 +1475,7 @@ a:hover{
 .fun-facts{
 	text-align:center;
 	margin-top:30px;
-	background-image:url('img/fun-bg.jpg');
+	background-image:url('../img/fun-bg.jpg');
 	position:relative;
 }
 .fun-facts .bf-color:before{
